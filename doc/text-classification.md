@@ -1,4 +1,5 @@
-### text classification 
+### text classification
+- [x] **`ULMFiT`** Universal Language Model Fine-tuning for Text Classification(2018)[[paper]](https://arxiv.org/abs/1801.06146)
 - [x] Text Classification Algorithms: A Survey(2019)[[paper]](https://arxiv.org/abs/1904.08067)
 - [x] Bag of Tricks for Efficient Text Classification(2016)[[paper]](https://arxiv.org/abs/1607.01759)
 - [x] Convolutional Neural Networks for Sentence Classification(2014)[[paper]](https://www.aclweb.org/anthology/D14-1181)

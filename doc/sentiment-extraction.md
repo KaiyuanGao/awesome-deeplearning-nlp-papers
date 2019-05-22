@@ -1,0 +1,32 @@
+### sentiment classification & extraction
+- [x] Attention-based LSTM for Aspect-level Sentiment Classification
+- [x] Interactive Attention Networks for Aspect-Level Sentiment Classification
+- [x] Multi-grained Attention Network for Aspect-Level Sentiment Classification
+- [x] Effective LSTMs for Target-Dependent Sentiment Classification
+- [x] Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks
+- [x] Learning to Attend via Word-Aspect Associative Fusion for Aspect-based Sentiment Analysis
+- [x] Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM
+- [x] Attentional Encoder Network for Targeted Sentiment Classification
+- [ ] Aspect Level Sentiment Classification with Deep Memory Network
+- [ ] Recurrent Attention Network on Memory for Aspect Sentiment Analysis
+- [ ] Feature-based Compositing Memory Networks for Aspect-based Sentiment Classification in Social Internet of Things
+- [ ] Target-Sensitive Memory Networks for Aspect Sentiment Classification
+- [ ] Content Attention Model for Aspect Based Sentiment Analysis
+- [ ] Feature-enhanced attention network for target-dependent sentiment classification
+- [ ] Aspect Based Sentiment Analysis with Gated Convolutional Networks
+- [ ] Parameterized Convolutional Neural Networks for Aspect Level sentiment analysis
+- [ ] Gated Neural Networks for Targeted Sentiment Analysis
+- [ ] Attention Modeling for Targeted Sentiment
+- [ ] Left-Center-Right Separated Neural Network for Aspect-based Sentiment Analysis with Rotatory Attention 
+- [x] Transformation Networks for Target-Oriented Sentiment Classification
+- [ ] A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis
+- [ ] Aspect Sentiment Classification with both Word-level and Clause-level Attention Networks 
+- [ ] Document-level Multi-aspect Sentiment Classification by Jointly Modeling Users, Aspects, and Overall Ratings
+- [ ] Document-Level Multi-Aspect Sentiment Classification as Machine Comprehension
+- [ ] CAN---Constrained Attention Networks for Multi-Aspect Sentiment Analysis
+- [ ] Iarm: Inter-aspect relation modeling with memory networks in aspect-based sentiment analysis
+- [ ] Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis
+- [ ] A Position-aware Bidirectional Attention Network for Aspect-level Sentiment Analysis
+- [ ] Effective Attention Modeling for Aspect-Level Sentiment Classification
+- [ ] Enhanced Aspect Level Sentiment Classification with Auxiliary Memory
+- [ ] Aspect-level Sentiment Classification with HEAT (HiErarchical ATtention) Network
