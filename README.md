@@ -1,5 +1,5 @@
-# Awesome-Deeplearning-NLP-Papers :blue_book:
-personal reading lists in deep learning and natural language processing.  
+# Awesome-Deeplearning-NLP-Papers [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+:blue_book: personal reading lists in deep learning and natural language processing.  
 
 **This is a long-term project. Hope i will stick to it and keep updating.**
 
