@@ -1,4 +1,8 @@
-### text classification
+## Text Classification
+**A related blog with interpretion of these papers [HERE](https://blog.csdn.net/Kaiyuan_sjtu/article/details/83956854)**  
+
+**A related code implementations of these papers [HERE](https://github.com/KaiyuanGao/text_claasification)**
+
 - [x] **`ULMFiT`** Universal Language Model Fine-tuning for Text Classification(2018)[[paper]](https://arxiv.org/abs/1801.06146)
 - [x] Text Classification Algorithms: A Survey(2019)[[paper]](https://arxiv.org/abs/1904.08067)
 - [x] Bag of Tricks for Efficient Text Classification(2016)[[paper]](https://arxiv.org/abs/1607.01759)
