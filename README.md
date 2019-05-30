@@ -8,7 +8,7 @@
 - :watermelon: [Deep Learning](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/deep-learning.md)
 - :strawberry: [Flashes in NLP](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/flashes-in-nlp.md)
 - :cherries: [Text Classification](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/text-classification.md)
-- :peach: [Sentiment Classification](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/sentiment-extraction.md)
+- :peach: [Sentiment Classification](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/sentiment-classification.md)
 - :melon: [Entity Recognition](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/entity-recognition.md)
 - :banana: [Entity Linking](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/entity-linking.md)
 - :pear: [Relation Classification and Extraction](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/relation-extraction.md)
