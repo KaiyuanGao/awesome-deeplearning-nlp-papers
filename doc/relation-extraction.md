@@ -5,6 +5,7 @@
 
 - [x] [NLP-progress in Relation Extraction](https://nlpprogress.com/english/relationship_extraction.html)
 
+- [x] Relation Extraction : A Survey(2017)[[paper]](https://arxiv.org/abs/1712.05191)
 - [x] **`DSRE`** Distant supervision for relation extraction without labeled data(2009) [[paper]](https://web.stanford.edu/~jurafsky/mintz.pdf)
 - [x] **`CNN`** Convolution Neural Network for Relation Extraction(2013)[[paper]](https://link.springer.com/chapter/10.1007/978-3-642-53917-6_21)
 - [x] **`CNN`** Relation Classification via Convolutional Deep Neural Network(2014)[[paper]](https://www.aclweb.org/anthology/C14-1220)
@@ -19,6 +20,7 @@
 - [x] **`TRLSTM`** End-to-End Relation Extraction using LSTMs on Sequences and Tree Structure(2016)[[paper]](https://arxiv.org/abs/1601.00770)
 - [x] **`ABLSTM`** Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification(2016)[[paper]](https://www.aclweb.org/anthology/P16-2034)
 - [x] **`HRNN+ATT`** Semantic Relation Classification via Hierarchical Recurrent Neural Network with Attention(2016) [[paper]](https://www.aclweb.org/anthology/C16-1119)
+- [x] **`CoType`** CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases(2016)[[paper]](https://arxiv.org/abs/1610.08763)
 - [x] Weakly-supervised Relation Extraction by Pattern-enhanced Embedding Learning(2016)[[paper]](https://arxiv.org/pdf/1711.03226.pdf)
 - [x] **`BRCNN`** Bidirectional Recurrent Convolutional Neural Network for Relation Classification(2016) [[paper]](https://www.aclweb.org/anthology/P16-1072)
 - [x] **`APCNN`** Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions(2017)[[paper]](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/AAAI2017.pdf)
@@ -27,11 +29,12 @@
 - [x] **`DRCNN`** Deep Residual Learning for Weakly-Supervised Relation Extraction(2017)[[paper]](https://www.aclweb.org/anthology/D17-1191)
 - [x] Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix(2017)[[paper]](https://arxiv.org/pdf/1705.03995.pdf)
 - [x] Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme(2017)[[paper]](https://arxiv.org/pdf/1706.05075.pdf)
+- [x] Joint Entity and Relation Extraction Based on A Hybrid Neural Network(2017)[[paper]](http://www.cips-cl.org/static/anthology/CCL-2017/CCL-17-084.pdf)
 - [x] Extracting Entities and Relations with Joint Minimum Risk Training(2018)[[paper]](https://www.aclweb.org/anthology/D18-1249)
 - [x] Effectively Combining Recurrent and Convolutional Neural Networks for Relation Classification and Extraction(2018)[[paper]](https://aclweb.org/anthology/S18-1112)
+- [x] Joint Extraction of Entities and Relations Based on a Novel Graph Scheme(2018)[[paper]](http://ir.hit.edu.cn/~car/papers/ijcai18slwang.pdf)
 - [ ] Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction(2018)[[paper]](https://www.aclweb.org/anthology/P18-2015)
 - [ ] Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention(2018)[[paper]](https://aclweb.org/anthology/D18-1247)
 - [ ] RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information(2018)[[paper]](http://malllabiisc.github.io/publications/papers/reside_emnlp18.pdf)
 - [ ] FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation(2018)[[paper]](https://arxiv.org/pdf/1810.10147.pdf)
 - [ ] Semantic Relation Classification via Bidirectional LSTM Networks with Entity-aware Attention using Latent Entity Typing (2019)[[paper]](https://arxiv.org/abs/1901.08163)
-- 
