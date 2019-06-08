@@ -1,5 +1,5 @@
 # Awesome-Deeplearning-NLP-Papers [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-:blue_book: personal reading lists in deep learning and natural language processing.  
+:blue_book: reading lists in deep learning and natural language processing.  
 
 **This is a long-term project. Hope i will stick to it and keep updating.**
 
@@ -17,3 +17,8 @@
 - :pineapple: [Dialogue System](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/dialogue-system.md)
 - :tomato: [Text Summarization](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/text-summarization.md)
 - :eggplant: [Machine Reading Comprehension](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/machine-reading-comprehension.md)
+
+-----
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
