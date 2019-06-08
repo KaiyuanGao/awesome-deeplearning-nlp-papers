@@ -36,5 +36,9 @@
 - [ ] Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction(2018)[[paper]](https://www.aclweb.org/anthology/P18-2015)
 - [ ] Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention(2018)[[paper]](https://aclweb.org/anthology/D18-1247)
 - [ ] RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information(2018)[[paper]](http://malllabiisc.github.io/publications/papers/reside_emnlp18.pdf)
-- [ ] FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation(2018)[[paper]](https://arxiv.org/pdf/1810.10147.pdf)
+- [ ] A Walk-based Model on Entity Graphs for Relation Extraction(2018)[[paper]](https://www.aclweb.org/anthology/P18-2014)
+- [ ] FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation(2018)[[paper]](https://arxiv.org/pdf/1810.1088888888888888888888888147.pdf)
 - [ ] Semantic Relation Classification via Bidirectional LSTM Networks with Entity-aware Attention using Latent Entity Typing (2019)[[paper]](https://arxiv.org/abs/1901.08163)
+- [ ] Large Scaled Relation Extraction with Reinforcement Learning(2018)[[paper]](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/zeng_aaai2018.pdf)
+- [ ] Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning(2018)[[paper]]
+- [ ] Reinforcement Learning for Relation Classification from Noisy Data(2018)[[paper]](https://www.semanticscholar.org/paper/Reinforcement-Learning-for-Relation-Classification-Feng-Huang/b3dae9529f3caeeec9cc6872e94aa690418acb22)

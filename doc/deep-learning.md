@@ -1,8 +1,16 @@
 ### Deep learning
 - [x] **`Highway Network`** Training Very Deep Networks(2015) [[paper]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf) [[source]](http://people.idsia.ch/~rupesh/very_deep_learning/)
+
+- [x] **`Dropout`** Dropout: A simple way to prevent neural networks from overfitting (2014)[[paper]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - [x] **`DropConnect`** Regularization of Neural Networks using DropConnect(2013)[[paper]](http://proceedings.mlr.press/v28/wan13.pdf)
-- [x] **`Variational Dropout`** A Theoretically Grounded Application of Dropout in Recurrent Neural Networks
+- [x] **`Variational Dropout`** A Theoretically Grounded Application of Dropout in Recurrent Neural Networks(2015)[[paper]](https://arxiv.org/abs/1512.05287)
 - [x] **`AWD-LSTM`** Regularizing and Optimizing LSTM Language Models(2017)[[paper]](https://arxiv.org/abs/1708.02182)[[source]](https://github.com/salesforce/awd-lstm-lm)
 - [x] **` Pointer Networks`** Pointer Networks(2015) [[paper]](https://arxiv.org/pdf/1506.03134.pdf)
-- [x] **`Memory Networks`** End-To-End Memory Networks(2015) [[paper]](https://arxiv.org/pdf/1503.08895.pdf)
+- [x] **`Memory Networks`** Memory Networks(2015) [[paper]](https://arxiv.org/pdf/1410.3916.pdf)
+- [x] **`MemN2N`** End-To-End Memory Networks(2015) [[paper]](https://arxiv.org/pdf/1503.08895.pdf)
 - [x] **`GAN`** Generative Adversarial Nets(2014)[[paper]](https://arxiv.org/pdf/1406.2661.pdf)
+- [x] **`seq2seq`** Sequence to Sequence Learning with Neural Networks [[paper]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+- [x] **`CNN`** A Convolutional Neural Network for Modelling Sentences(2014)[[paper]](https://www.aclweb.org/anthology/P14-1062)
+- [x] **`BN`** Batch normalization: Accelerating deep network training by reducing internal covariate shift (2015)[[paper]](https://arxiv.org/pdf/1502.03167.pdf)
+- [x] **`LN`** Layer Normalization(2016)[[paper]](https://arxiv.org/pdf/1607.06450v1.pdf)
+- [x] **`ADAM`** Adam: A method for stochastic optimization(2014)[[paper]](https://arxiv.org/pdf/1412.6980.pdf)

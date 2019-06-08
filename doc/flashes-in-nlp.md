@@ -1,11 +1,12 @@
 ## Flashes in NLP
 
 - [ ] Attention is not Explanation(2019)[[paper]](https://arxiv.org/pdf/1902.10186.pdf)
-- [ ] **`XML`** Crosslingual language model pretraining(2019)[[paper]](https://arxiv.org/pdf/1901.07291.pdf)
+- [x] **`XML`** Crosslingual language model pretraining(2019)[[paper]](https://arxiv.org/pdf/1901.07291.pdf)
 - [x] **`ERNIE-BAIDU`** ERNIE: Enhanced Representation through Knowledge Integration(2019)[[paper]](https://arxiv.org/pdf/1904.09223.pdf)[[source]](https://github.com/PaddlePaddle/LARK/tree/develop/ERNIE)
 
 - [x] **`ERNIE-THU`** ERNIE: Enhanced Language Representation with Informative Entities(2019)[[paper]](https://arxiv.org/abs/1905.07129)[[source]](https://github.com/thunlp/ERNIE)
 - [x] **`MASS`** MASS: Masked Sequence to Sequence Pre-training for Language Generation(2019) [[paper]](https://arxiv.org/abs/1905.02450)
+- [x] **`Glyce`** Glyce: Glyph-vectors for Chinese Character Representations(2019)[[paper]](https://arxiv.org/pdf/1901.10125.pdf)
 - [x] **`BERT`** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2019)[[paper]](https://arxiv.org/abs/1810.04805) [[source]](https://github.com/google-research/bert)
 - [x] **`ATTENTION`** An Attentive Survey of Attention Models(2019) [[paper]](https://arxiv.org/abs/1904.02874)
 - [x] **`ELMO`** Deep contextualized word representations(2018) [[paper]](https://arxiv.org/pdf/1802.05365.pdf)[[source]](https://github.com/allenai/bilm-tf)
@@ -21,7 +22,7 @@
 - [x] **`Glove`** Glove: Global vectors for word representation (2014)[[paper]](https://www.aclweb.org/anthology/D14-1162)
 - [x] **`FastText`** Bag of Tricks for Efficient Text Classification(2016)[[paper]](https://arxiv.org/abs/1607.01759)
 - [x] **`ConvSeq2Seq`** Convolutional Sequence to Sequence Learning(2017) [[paper]](https://arxiv.org/abs/1705.03122)
-- [ ] **`Seq2Seq`** Unsupervised Pretraining for Sequence to Sequence Learning(2017)[[paper]](https://www.aclweb.org/anthology/D17-1039)
+- [x] **`Seq2Seq`** Unsupervised Pretraining for Sequence to Sequence Learning(2017)[[paper]](https://www.aclweb.org/anthology/D17-1039)
 - [ ] **`Graph2Seq`** Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks(2018)[[paper]](https://arxiv.org/abs/1804.00823)
 - [ ] **`SeqGAN`** SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient(2017) [[paper]](https://arxiv.org/pdf/1609.05473.pdf)
 - [ ] **`Multi-Task`** An Overview of Multi-Task Learning in Deep Neural Networks(2017)[[paper]](https://arxiv.org/pdf/1706.05098.pdf)
@@ -30,11 +31,12 @@
 - [ ] **`Multi-Task`** Latent Multi-task Architecture Learning(2019)[[paper]](https://arxiv.org/pdf/1705.08142.pdf)
 - [ ] A Unified Perspective on Multi-Domain and Multi-Task Learning(2015)[[paper]](https://arxiv.org/pdf/1412.7489.pdf)
 - [ ] Cloze-driven Pretraining of Self-attention Networks(2019)[[paper]](https://arxiv.org/pdf/1903.07785.pdf)
-- [ ] Unified Language Model Pre-training for Natural Language Understanding and GenerationUnified(2019)[[paper]](https://arxiv.org/pdf/1905.03197.pdf)
+- [x] **`UNILM`** Unified Language Model Pre-training for Natural Language Understanding and GenerationUnified(2019)[[paper]](https://arxiv.org/pdf/1905.03197.pdf)
 - [x] **`LM`** Exploring the Limits of Language Modeling(2016)[[paper]](https://arxiv.org/pdf/1602.02410.pdf)
 - [x] **`DMN`** Ask Me Anything: Dynamic Memory Networks for Natural Language Processing(2016)[[paper]](https://arxiv.org/pdf/1506.07285.pdf)
 - [x] **`MDRNN`** Multi-Dimensional Recurrent Neural Networks(2007)[[paper]](https://arxiv.org/pdf/0705.2011.pdf)
 - [x] **`GFRNN`** Gated Feedback Recurrent Neural Networks(2015)[[paper]](https://arxiv.org/pdf/1502.02367.pdf)
 - [x] **`SegRNN`** Segmental Recurrent Neural Networks(2016)[[paper]](https://arxiv.org/pdf/1511.06018v2.pdf)
 - [x] **`GridLSTM`** Grid Long Short-Term Memory(2016)[[paper]](https://arxiv.org/pdf/1507.01526.pdf)
-- 
+- [x] Pre-trained Language Model Representations for Language Generation(2019)[[paper]](https://arxiv.org/abs/1903.09722)
+- [x] **`LASER`** Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond（2018）[[paper]](https://arxiv.org/abs/1812.10464)
