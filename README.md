@@ -8,15 +8,21 @@
 :watermelon: [Deep Learning](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/deep-learning.md)  
 :strawberry: [Flashes in NLP](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/flashes-in-nlp.md)  
 :cherries: [Text Classification](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/text-classification.md)  
-:peach: [Sentiment Classification](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/sentiment-classification.md)  
+:peach: [Sentiment Analysis](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/sentiment-classification.md)  
 :melon: [Entity Recognition](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/entity-recognition.md)  
 :banana: [Entity Linking](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/entity-linking.md)  
-:pear: [Relation Classification and Extraction](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/relation-extraction.md)  
+:pear: [Information Extraction](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/relation-extraction.md)  
 :tangerine: [Machine Translation](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/machine-translation.md)  
 :lemon: [Queation Answering](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/queation-answering.md)  
 :pineapple: [Dialogue System](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/dialogue-system.md)  
 :tomato: [Text Summarization](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/text-summarization.md)  
 :eggplant: [Machine Reading Comprehension](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/machine-reading-comprehension.md)  
+:grapes: [Conference resolution]()
+:apple: [Dependency Parsing]()
+:tangerine: [Natural Language Inference]()
+:sweet_potato: [Part-of-speech tagging]()
+:peach: [Word sense disambiguation]()
+:corn: [Common sense]()
 
 -----
 ## License
