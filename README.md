@@ -17,11 +17,11 @@
 :pineapple: [Dialogue System](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/dialogue-system.md)  
 :tomato: [Text Summarization](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/text-summarization.md)  
 :eggplant: [Machine Reading Comprehension](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers/blob/master/doc/machine-reading-comprehension.md)  
-:grapes: [Conference resolution]()
-:apple: [Dependency Parsing]()
-:tangerine: [Natural Language Inference]()
-:sweet_potato: [Part-of-speech tagging]()
-:peach: [Word sense disambiguation]()
+:grapes: [Conference resolution]()  
+:apple: [Dependency Parsing]()  
+:tangerine: [Natural Language Inference]()  
+:sweet_potato: [Part-of-speech tagging]()  
+:peach: [Word sense disambiguation]()  
 :corn: [Common sense]()
 
 -----
